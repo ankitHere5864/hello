@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Cinzel+Decorative:wght@700&family=Creepster&family=Dancing+Script:wght@700&family=Kurale&family=Pacifico&family=Rubik+Wet+Paint&family=Tilt+Prism&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cinzel Decorative';  
+   
+
+}
+.space12{
+    text-align: center;
+    padding-top: 20px;
+    width: 100%;
+    font-weight: 900;
+    font-size: xx-large;
+    height: 70px;
+    background-color:rgb(242, 124, 26);
+}
+.img1{
+    background-image: url(b1261e81081537.5cf4ba20cc4cb.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   background-attachment: fixed;
+
+}
+.para1 h1{
+   background-color: rgb(46, 41, 41);
+   width: 285px;
+   height: 60px;
+   color: rgb(50, 192, 6);
+   text-align: center;
+   padding-top: 10px;
+    
+}
+.info-1{
+background-color: #a960fc;
+color: rgb(0, 0, 0);
+text-align: center;
+
+}
+
+
+.img2{
+    background-image: url(pexels-saveurs-secretes-7751646.jpg);
+    background-size:80% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+   margin-left: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  background-attachment: fixed;
+
+}
+.para2 h1{
+    background-color: rgb(46, 41, 41);
+    width: 285px;
+    height: 60px;
+    color: rgb(247, 134, 41);
+    text-align: center;
+    padding-top: 10px;
+    }
+
+ .info-2{
+ background-color: #fcb860;
+ color: rgb(0, 0, 0);
+ text-align: center;
+
+ }
+
+ .img3{
+    background-image: url(sev-popular-indian-snack-food-consisting-small-pieces-crunchy-noodles-made-chickpea-flour-paste-which-seasoned-145647490.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background-size:111% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+   margin-left: 200px;
+
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+
+}
+.para3 h1{
+   background-color: rgb(46, 41, 41);
+   width: 285px;
+   height: 60px;
+   color: rgb(231, 235, 41);
+   text-align: center;
+   padding-top: 10px;
+    
+}
+.info-3{
+background-color: #778b00;
+color: rgb(0, 0, 0);
+text-align: center;
+
+}
+
+.img4{
+    background-image: url(pexels-divya-jain-14723140.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background-size:94% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+   margin-left: 100px;
+
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     background-attachment: fixed;
+
+}
+.para4 h1{
+   background-color: rgb(46, 41, 41);
+   width: 285px;
+   height: 40pxpx;
+   color: rgb(192, 6, 145);
+   text-align: center;
+   padding-top: 10px;
+    
+}
+.info-4{
+background-color: #fc607a;
+color: rgb(0, 0, 0);
+text-align: center;
+
+}
+
+.img5{
+    background-image: url(nisha-ramesh-Q5mPPGld5Zk-unsplash.jpg);   
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background-size:74% 110%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+   margin-left: 200px;
+   
+
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     background-attachment: fixed;
+ 
+
+}
+.para5 h1{
+   background-color: rgb(46, 41, 41);
+   width: 1305px;
+   height: 60px;
+   color: rgb(50, 192, 6);
+   text-align: center;
+   padding-top: 10px;
+    
+}
+.info-5{
+background-color: #a960fc;
+color: rgb(0, 0, 0);
+text-align: center;
+
+}
